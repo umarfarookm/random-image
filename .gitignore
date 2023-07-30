@@ -1,0 +1,17 @@
+node_modules
+.idea/
+sublime
+local-test.json
+local.json
+log/*log*
+npm-debug.log
+coverage/
+.vscode/
+model/.pgen
+todayDump.sql
+package-lock.json
+test-report.tap
+.camel/
+target/
+faxInput/
+.DS_Store
